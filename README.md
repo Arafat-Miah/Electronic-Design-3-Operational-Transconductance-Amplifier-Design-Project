@@ -72,7 +72,6 @@ Although the course assignment includes post-layout simulation using extracted p
 
 - `report/` — accepted project report
 - `assignment/` — original course design brief
-- `images/` — optional project figures and screenshots
 
 ## EDA Tool Used
 
